@@ -30,7 +30,7 @@ export default function RootLayout({
         repeatDelay={1}
         className={cn(
           "[mask-image:radial-gradient(980px_circle_at_center,white,transparent)]",
-          "inset-x-0 inset-y-[-30%] h-[75%] md:h-[100%] skew-y-12 text-yellow-300/70",
+          "inset-x-0 inset-y-[-30%] md:h-[100%] skew-y-12 text-yellow-300/70",
         )}
       />
 
